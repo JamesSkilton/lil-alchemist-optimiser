@@ -1,0 +1,5306 @@
+{
+  "Vampire": {
+    "attack": "4",
+    "defense": "1"
+  },
+  "Undead": {
+    "attack": "1",
+    "defense": "2"
+  },
+  "Werewolf": {
+    "attack": "3",
+    "defense": "2"
+  },
+  "Poison": {
+    "attack": "3",
+    "defense": "0"
+  },
+  "Pegasus": {
+    "attack": "4",
+    "defense": "4"
+  },
+  "Earthquake": {
+    "attack": "8",
+    "defense": "0"
+  },
+  "Death Metal": {
+    "attack": "7",
+    "defense": "0"
+  },
+  "Killer Plant": {
+    "attack": "5",
+    "defense": "2"
+  },
+  "Bomb": {
+    "attack": "9",
+    "defense": "0"
+  },
+  "Lava": {
+    "attack": "5",
+    "defense": "1"
+  },
+  "Baseball Bat": {
+    "attack": "5",
+    "defense": "1"
+  },
+  "Tree": {
+    "attack": "0",
+    "defense": "4"
+  },
+  "Catapult": {
+    "attack": "8",
+    "defense": "0"
+  },
+  "Ash": {
+    "attack": "0",
+    "defense": "1"
+  },
+  "Vulture": {
+    "attack": "5",
+    "defense": "2"
+  },
+  "Ghost": {
+    "attack": "6",
+    "defense": "3"
+  },
+  "Demon": {
+    "attack": "4",
+    "defense": "1"
+  },
+  "Fire": {
+    "attack": "2",
+    "defense": "0"
+  },
+  "Grabbers": {
+    "attack": "3",
+    "defense": "4"
+  },
+  "Water": {
+    "attack": "1",
+    "defense": "1"
+  },
+  "Wildfire": {
+    "attack": "7",
+    "defense": "0"
+  },
+  "Water Serpent": {
+    "attack": "3",
+    "defense": "2"
+  },
+  "Golem": {
+    "attack": "1",
+    "defense": "4"
+  },
+  "Hammer": {
+    "attack": "4",
+    "defense": "1"
+  },
+  "Car": {
+    "attack": "3",
+    "defense": "4"
+  },
+  "Radiation": {
+    "attack": "3",
+    "defense": "0"
+  },
+  "Elf": {
+    "attack": "3",
+    "defense": "2"
+  },
+  "Dragon": {
+    "attack": "3",
+    "defense": "2"
+  },
+  "Fairy": {
+    "attack": "2",
+    "defense": "3"
+  },
+  "Death": {
+    "attack": "3",
+    "defense": "0"
+  },
+  "Steam": {
+    "attack": "2",
+    "defense": "4"
+  },
+  "Seahorse": {
+    "attack": "6",
+    "defense": "2"
+  },
+  "Anaconda": {
+    "attack": "6",
+    "defense": "2"
+  },
+  "Giant Sword": {
+    "attack": "8",
+    "defense": "3"
+  },
+  "Angel": {
+    "attack": "1",
+    "defense": "4"
+  },
+  "Trident": {
+    "attack": "4",
+    "defense": "0"
+  },
+  "Centaur": {
+    "attack": "5",
+    "defense": "4"
+  },
+  "Horse": {
+    "attack": "1",
+    "defense": "2"
+  },
+  "Holy Water": {
+    "attack": "1",
+    "defense": "4"
+  },
+  "Submarine": {
+    "attack": "4",
+    "defense": "4"
+  },
+  "Jet Fighter": {
+    "attack": "7",
+    "defense": "4"
+  },
+  "Wolfpack": {
+    "attack": "5",
+    "defense": "4"
+  },
+  "Cobra": {
+    "attack": "6",
+    "defense": "1"
+  },
+  "Snakes on a Jet": {
+    "attack": "7",
+    "defense": "1"
+  },
+  "Rainbow": {
+    "attack": "4",
+    "defense": "1"
+  },
+  "Bat": {
+    "attack": "2",
+    "defense": "1"
+  },
+  "Flood": {
+    "attack": "5",
+    "defense": "2"
+  },
+  "Poseidon": {
+    "attack": "8",
+    "defense": "6"
+  },
+  "Wasp": {
+    "attack": "9",
+    "defense": "2"
+  },
+  "Meteor": {
+    "attack": "15",
+    "defense": "0"
+  },
+  "Phoenix": {
+    "attack": "11",
+    "defense": "4"
+  },
+  "Human": {
+    "attack": "3",
+    "defense": "2"
+  },
+  "Magic": {
+    "attack": "2",
+    "defense": "2"
+  },
+  "Imp": {
+    "attack": "7",
+    "defense": "4"
+  },
+  "Gargoyle": {
+    "attack": "5",
+    "defense": "8"
+  },
+  "Medusa": {
+    "attack": "7",
+    "defense": "4"
+  },
+  "Dwarf": {
+    "attack": "5",
+    "defense": "8"
+  },
+  "The Reaper": {
+    "attack": "8",
+    "defense": "6"
+  },
+  "Skeletal Mage": {
+    "attack": "8",
+    "defense": "2"
+  },
+  "Treant": {
+    "attack": "8",
+    "defense": "6"
+  },
+  "Wiz's Apprentice": {
+    "attack": "8",
+    "defense": "3"
+  },
+  "Care Chilla": {
+    "attack": "5",
+    "defense": "9"
+  },
+  "Headless Rider": {
+    "attack": "7",
+    "defense": "5"
+  },
+  "Scythe": {
+    "attack": "11",
+    "defense": "0"
+  },
+  "Clown": {
+    "attack": "10",
+    "defense": "3"
+  },
+  "Void Fiend": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Dire Wolf": {
+    "attack": "8",
+    "defense": "3"
+  },
+  "Puff": {
+    "attack": "8",
+    "defense": "6"
+  },
+  "Armored Dragon": {
+    "attack": "6",
+    "defense": "6"
+  },
+  "Wyvern": {
+    "attack": "6",
+    "defense": "5"
+  },
+  "Gnome": {
+    "attack": "4",
+    "defense": "7"
+  },
+  "Rock Slide": {
+    "attack": "5",
+    "defense": "9"
+  },
+  "Metal Golem": {
+    "attack": "3",
+    "defense": "11"
+  },
+  "Dark Matter": {
+    "attack": "10",
+    "defense": "4"
+  },
+  "Ultra Dude": {
+    "attack": "8",
+    "defense": "7"
+  },
+  "Fire Sprite": {
+    "attack": "8",
+    "defense": "3"
+  },
+  "Water Sprite": {
+    "attack": "6",
+    "defense": "6"
+  },
+  "Muse": {
+    "attack": "7",
+    "defense": "6"
+  },
+  "Witch": {
+    "attack": "9",
+    "defense": "3"
+  },
+  "Fire Golem": {
+    "attack": "8",
+    "defense": "4"
+  },
+  "War's Horse": {
+    "attack": "4",
+    "defense": "7"
+  },
+  "Red Knight": {
+    "attack": "9",
+    "defense": "5"
+  },
+  "Fireball": {
+    "attack": "11",
+    "defense": "0"
+  },
+  "Sword": {
+    "attack": "5",
+    "defense": "1"
+  },
+  "The Incinerator": {
+    "attack": "10",
+    "defense": "3"
+  },
+  "Flame Sword": {
+    "attack": "10",
+    "defense": "2"
+  },
+  "Firefox": {
+    "attack": "7",
+    "defense": "4"
+  },
+  "Mermaid": {
+    "attack": "6",
+    "defense": "6"
+  },
+  "Ocean Defender": {
+    "attack": "7",
+    "defense": "3"
+  },
+  "Lochness Monster": {
+    "attack": "6",
+    "defense": "7"
+  },
+  "The World Tree": {
+    "attack": "7",
+    "defense": "4"
+  },
+  "Ice Golem": {
+    "attack": "4",
+    "defense": "8"
+  },
+  "Wooden Golem": {
+    "attack": "2",
+    "defense": "12"
+  },
+  "Vampire Hunter": {
+    "attack": "7",
+    "defense": "3"
+  },
+  "Sledge Hammer": {
+    "attack": "10",
+    "defense": "2"
+  },
+  "Club": {
+    "attack": "13",
+    "defense": "0"
+  },
+  "Morning Star": {
+    "attack": "10",
+    "defense": "1"
+  },
+  "Nightshade": {
+    "attack": "7",
+    "defense": "6"
+  },
+  "Cavalry": {
+    "attack": "5",
+    "defense": "5"
+  },
+  "Mr. Ted": {
+    "attack": "8",
+    "defense": "5"
+  },
+  "Scholar": {
+    "attack": "8",
+    "defense": "6"
+  },
+  "Wizard": {
+    "attack": "6",
+    "defense": "0"
+  },
+  "Knight": {
+    "attack": "3",
+    "defense": "4"
+  },
+  "Superhero": {
+    "attack": "4",
+    "defense": "3"
+  },
+  "Caveman": {
+    "attack": "9",
+    "defense": "6"
+  },
+  "Blue Knight": {
+    "attack": "7",
+    "defense": "7"
+  },
+  "Battle Mage": {
+    "attack": "8",
+    "defense": "7"
+  },
+  "Green Knight": {
+    "attack": "5",
+    "defense": "9"
+  },
+  "The Magician": {
+    "attack": "5",
+    "defense": "7"
+  },
+  "Pirate Zombie": {
+    "attack": "7",
+    "defense": "6"
+  },
+  "Sleeping Princess": {
+    "attack": "4",
+    "defense": "11"
+  },
+  "Bird Flu": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Wight": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Scratch Lottery": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "Chinzombie": {
+    "attack": "10",
+    "defense": "8"
+  },
+  "Inner Demons": {
+    "attack": "11",
+    "defense": "7"
+  },
+  "Space Zombie": {
+    "attack": "15",
+    "defense": "5"
+  },
+  "Cursed": {
+    "attack": "9",
+    "defense": "0"
+  },
+  "Sun Burn": {
+    "attack": "12",
+    "defense": "4"
+  },
+  "Cursed Apple": {
+    "attack": "13",
+    "defense": "4"
+  },
+  "Insidious Emperor": {
+    "attack": "10",
+    "defense": "8"
+  },
+  "Zombie Giant": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Doctor": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Pestilence's Horse": {
+    "attack": "8",
+    "defense": "6"
+  },
+  "Hypothermia": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Dorian Gray": {
+    "attack": "12",
+    "defense": "4"
+  },
+  "Radiation Sickness": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Forbidden Love": {
+    "attack": "13",
+    "defense": "6"
+  },
+  "Undead Knight": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Voodoo Doll": {
+    "attack": "12",
+    "defense": "3"
+  },
+  "Wraith Dagger": {
+    "attack": "16",
+    "defense": "3"
+  },
+  "Zombiesaur": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Zombie Tank": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Mistletoe": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Bloodlust": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Insanity Wolf": {
+    "attack": "15",
+    "defense": "5"
+  },
+  "Witch Doctor": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "Seraphim": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Angel of Wrath": {
+    "attack": "12",
+    "defense": "3"
+  },
+  "Angel Kid": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Doves": {
+    "attack": "6",
+    "defense": "9"
+  },
+  "Puff Hero": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Trading Card": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Angel Food Cake": {
+    "attack": "11",
+    "defense": "4"
+  },
+  "Dark Angel": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Soul Harvester": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Heavenly Dog": {
+    "attack": "8",
+    "defense": "12"
+  },
+  "Devil": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Fairy Godmother": {
+    "attack": "3",
+    "defense": "11"
+  },
+  "Holy Mackerel": {
+    "attack": "7",
+    "defense": "9"
+  },
+  "Paladin": {
+    "attack": "7",
+    "defense": "10"
+  },
+  "Snow Angel": {
+    "attack": "8",
+    "defense": "10"
+  },
+  "Gabriel's Horn": {
+    "attack": "2",
+    "defense": "16"
+  },
+  "Guardian Angel": {
+    "attack": "2",
+    "defense": "14"
+  },
+  "Praying Mantis": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Dryad": {
+    "attack": "4",
+    "defense": "10"
+  },
+  "Arch Angel": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Angel of Wisdom": {
+    "attack": "8",
+    "defense": "12"
+  },
+  "Angelic Mutant": {
+    "attack": "15",
+    "defense": "5"
+  },
+  "Conscience": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Flying Monkey": {
+    "attack": "13",
+    "defense": "4"
+  },
+  "Moon Goddess": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Angel Trumpeter": {
+    "attack": "6",
+    "defense": "10"
+  },
+  "Feisty Figurehead": {
+    "attack": "17",
+    "defense": "2"
+  },
+  "Luckymon": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Arch Mage": {
+    "attack": "14",
+    "defense": "5"
+  },
+  "Ancient Ark": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Valkyrie": {
+    "attack": "11",
+    "defense": "9"
+  },
+  "Turkey": {
+    "attack": "9",
+    "defense": "8"
+  },
+  "Flying Trooper": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Angelfish": {
+    "attack": "4",
+    "defense": "12"
+  },
+  "Festive Coral": {
+    "attack": "3",
+    "defense": "14"
+  },
+  "Family Reunion": {
+    "attack": "16",
+    "defense": "2"
+  },
+  "War God": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Angry Bride": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Raging Bird": {
+    "attack": "12",
+    "defense": "2"
+  },
+  "Negative Slime": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Disgruntled Beavers": {
+    "attack": "9",
+    "defense": "7"
+  },
+  "Cat and Mouse": {
+    "attack": "15",
+    "defense": "5"
+  },
+  "Sekhmet": {
+    "attack": "15",
+    "defense": "1"
+  },
+  "Cyborg Alien Mutant": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Naga Queen": {
+    "attack": "13",
+    "defense": "4"
+  },
+  "Angry Mob": {
+    "attack": "10",
+    "defense": "9"
+  },
+  "Cold Hearted": {
+    "attack": "7",
+    "defense": "10"
+  },
+  "Demonic Fighter": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Protozoan Villain": {
+    "attack": "17",
+    "defense": "1"
+  },
+  "Barrage": {
+    "attack": "16",
+    "defense": "4"
+  },
+  "Killer Vegetables": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Psychic Clone": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Mutant Man": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Lady Revenant": {
+    "attack": "15",
+    "defense": "0"
+  },
+  "Swarm Queen": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Vengeful Spirit": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Dracula": {
+    "attack": "8",
+    "defense": "7"
+  },
+  "Alien Intruders": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Boneyard": {
+    "attack": "8",
+    "defense": "7"
+  },
+  "Sewer Mutants": {
+    "attack": "9",
+    "defense": "7"
+  },
+  "Chinchilla Raider": {
+    "attack": "14",
+    "defense": "3"
+  },
+  "Commander of Sin": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "World Eater": {
+    "attack": "14",
+    "defense": "6"
+  },
+  "Alien Sorceress": {
+    "attack": "16",
+    "defense": "4"
+  },
+  "Mutated Fish": {
+    "attack": "8",
+    "defense": "7"
+  },
+  "Horn of Winter": {
+    "attack": "15",
+    "defense": "3"
+  },
+  "Cybernetic Humans": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Ape Lost City": {
+    "attack": "4",
+    "defense": "11"
+  },
+  "Doomsday Omen": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Parasitic Bioweapon": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Poison Cloud": {
+    "attack": "16",
+    "defense": "0"
+  },
+  "Doom Temple": {
+    "attack": "15",
+    "defense": "4"
+  },
+  "Cthulhu": {
+    "attack": "7",
+    "defense": "10"
+  },
+  "The Mariner": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Horseshoe Fossil": {
+    "attack": "5",
+    "defense": "11"
+  },
+  "Spooky Decorations": {
+    "attack": "8",
+    "defense": "7"
+  },
+  "Evil Symbiote": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Muffet Missy": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Skittering Forest": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Trickster Anansi": {
+    "attack": "15",
+    "defense": "5"
+  },
+  "Wolf Spider Monkey": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Burrowling": {
+    "attack": "13",
+    "defense": "4"
+  },
+  "Tinselwebs": {
+    "attack": "7",
+    "defense": "9"
+  },
+  "Spider Mite": {
+    "attack": "12",
+    "defense": "3"
+  },
+  "Cyber Corsair": {
+    "attack": "9",
+    "defense": "6"
+  },
+  "Demon Queen": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Parched Skeleton": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Rampant Lucy": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Legendary Hero": {
+    "attack": "9",
+    "defense": "8"
+  },
+  "Magicod": {
+    "attack": "10",
+    "defense": "8"
+  },
+  "Chomp Dude": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Life Shroom": {
+    "attack": "12",
+    "defense": "3"
+  },
+  "Horn of Life": {
+    "attack": "0",
+    "defense": "20"
+  },
+  "Absolute Zero": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Segmentipede": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Mama Brain": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Treasure Hunters": {
+    "attack": "5",
+    "defense": "13"
+  },
+  "Sunflower": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Chomp Dude Spirits": {
+    "attack": "15",
+    "defense": "5"
+  },
+  "Reptilian Ninja": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Swift the Chin": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Flying Fish": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Dark Hero": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Ice Explorers": {
+    "attack": "14",
+    "defense": "4"
+  },
+  "Tombstone": {
+    "attack": "8",
+    "defense": "10"
+  },
+  "Black Cat": {
+    "attack": "12",
+    "defense": "4"
+  },
+  "Dust Bath": {
+    "attack": "4",
+    "defense": "10"
+  },
+  "Sand Raider": {
+    "attack": "16",
+    "defense": "4"
+  },
+  "Siberian Husky": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "Fireworks": {
+    "attack": "14",
+    "defense": "2"
+  },
+  "Cinderella": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Pixie Sugar": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Nightmare": {
+    "attack": "8",
+    "defense": "7"
+  },
+  "Penguin": {
+    "attack": "9",
+    "defense": "11"
+  },
+  "Earthworm": {
+    "attack": "6",
+    "defense": "10"
+  },
+  "Monkey Shaman": {
+    "attack": "7",
+    "defense": "12"
+  },
+  "Moon Buggy": {
+    "attack": "9",
+    "defense": "6"
+  },
+  "Chameleon": {
+    "attack": "9",
+    "defense": "6"
+  },
+  "Geomancer": {
+    "attack": "5",
+    "defense": "11"
+  },
+  "Nosferatu Duck": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Skeletal Vampire": {
+    "attack": "15",
+    "defense": "3"
+  },
+  "Super Bat": {
+    "attack": "8",
+    "defense": "6"
+  },
+  "Vampchilla": {
+    "attack": "9",
+    "defense": "5"
+  },
+  "Stingray": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Laughing Pet Alien": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Vampiric Gargoyle": {
+    "attack": "14",
+    "defense": "5"
+  },
+  "Ice Imp": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Bumblebee Bat": {
+    "attack": "0",
+    "defense": "16"
+  },
+  "Shapeshifter": {
+    "attack": "7",
+    "defense": "7"
+  },
+  "Vampire Coven": {
+    "attack": "16",
+    "defense": "3"
+  },
+  "Vampirate": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Sonic Bat": {
+    "attack": "11",
+    "defense": "4"
+  },
+  "Pterodactyl": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "Vampire Killer": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Flying Squirrel": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "Werevamp": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Monster & Beauty": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Stuffed Plushie": {
+    "attack": "8",
+    "defense": "10"
+  },
+  "Anna-versary": {
+    "attack": "9",
+    "defense": "6"
+  },
+  "Bear Dog": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Hibernation": {
+    "attack": "5",
+    "defense": "15"
+  },
+  "Animal Whisperer": {
+    "attack": "0",
+    "defense": "15"
+  },
+  "Bear Magus": {
+    "attack": "11",
+    "defense": "8"
+  },
+  "Polar Bear": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Yeti": {
+    "attack": "7",
+    "defense": "10"
+  },
+  "Claws": {
+    "attack": "19",
+    "defense": "1"
+  },
+  "Transmutation": {
+    "attack": "14",
+    "defense": "4"
+  },
+  "Sugar Skull": {
+    "attack": "11",
+    "defense": "4"
+  },
+  "Man of Many Suits": {
+    "attack": "9",
+    "defense": "6"
+  },
+  "Cleopatra": {
+    "attack": "15",
+    "defense": "5"
+  },
+  "Dragon Fairy": {
+    "attack": "7",
+    "defense": "13"
+  },
+  "Aurora": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Alien Human Hybrid": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Nymph": {
+    "attack": "4",
+    "defense": "14"
+  },
+  "Butterfly": {
+    "attack": "8",
+    "defense": "9"
+  },
+  "Gaia": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Ogre Princess": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Youthful Sorceress": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Snowflake": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Beguiling Android": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Prince Charming": {
+    "attack": "7",
+    "defense": "12"
+  },
+  "Evil Queen": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Blue Iron": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Thumbelina": {
+    "attack": "18",
+    "defense": "1"
+  },
+  "Golden Harp": {
+    "attack": "8",
+    "defense": "7"
+  },
+  "Margarfree": {
+    "attack": "13",
+    "defense": "3"
+  },
+  "Elf King": {
+    "attack": "14",
+    "defense": "6"
+  },
+  "Double Rainbow": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Candy Princess": {
+    "attack": "5",
+    "defense": "14"
+  },
+  "Princess": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Ice Queen": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Uncle Duck": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Werechicken": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Road Sprinter": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Golden Egg Goose": {
+    "attack": "6",
+    "defense": "11"
+  },
+  "Turtle Duck": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Plague Doctor": {
+    "attack": "6",
+    "defense": "10"
+  },
+  "Robot Turkey": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Parrot": {
+    "attack": "12",
+    "defense": "4"
+  },
+  "Cuckoo": {
+    "attack": "5",
+    "defense": "15"
+  },
+  "Four Eyed Raven": {
+    "attack": "3",
+    "defense": "15"
+  },
+  "King Dodo": {
+    "attack": "Stats",
+    "defense": "7/19"
+  },
+  "Night Owl": {
+    "attack": "17",
+    "defense": "0"
+  },
+  "Space Explorer": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Eagle Hero": {
+    "attack": "8",
+    "defense": "10"
+  },
+  "Messenger Bird": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Gifted Birds": {
+    "attack": "11",
+    "defense": "8"
+  },
+  "Shoggoth": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Blood Imp": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Mudslide": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "The Ooze": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Moon Jellyfish": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Fruit Cake": {
+    "attack": "14",
+    "defense": "2"
+  },
+  "Gummy Duo": {
+    "attack": "4",
+    "defense": "11"
+  },
+  "Sea Monkey": {
+    "attack": "11",
+    "defense": "7"
+  },
+  "Tentacled Beast": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Festival Feast": {
+    "attack": "5",
+    "defense": "10"
+  },
+  "Gummy Worm": {
+    "attack": "13",
+    "defense": "3"
+  },
+  "Radioactive Avenger": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Vampire Queen": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Mana Elf": {
+    "attack": "12",
+    "defense": "3"
+  },
+  "Bluebeard": {
+    "attack": "14",
+    "defense": "4"
+  },
+  "Blue Fizz Refresher": {
+    "attack": "15",
+    "defense": "2"
+  },
+  "Vaccine": {
+    "attack": "6",
+    "defense": "9"
+  },
+  "Half-blood Professor": {
+    "attack": "11",
+    "defense": "8"
+  },
+  "Mosquito": {
+    "attack": "16",
+    "defense": "2"
+  },
+  "Blood Analyst": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Sunwalker Vampire": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "Leech": {
+    "attack": "14",
+    "defense": "1"
+  },
+  "Blue Witch": {
+    "attack": "11",
+    "defense": "7"
+  },
+  "Ball Companion": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Vampire Squid": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Lich": {
+    "attack": "10",
+    "defense": "8"
+  },
+  "Bone Hound": {
+    "attack": "5",
+    "defense": "14"
+  },
+  "Skeletal Dragon": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Necromancer": {
+    "attack": "8",
+    "defense": "6"
+  },
+  "Horn Dagger": {
+    "attack": "17",
+    "defense": "0"
+  },
+  "Skeletal Isle": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "X-Ray": {
+    "attack": "12",
+    "defense": "4"
+  },
+  "Bone Xylophone": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Shadow Prophet": {
+    "attack": "13",
+    "defense": "3"
+  },
+  "Worship Stones": {
+    "attack": "17",
+    "defense": "0"
+  },
+  "Pink Skull": {
+    "attack": "13",
+    "defense": "4"
+  },
+  "Bone Sword": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "Discipliner": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "The Snake Lord": {
+    "attack": "11",
+    "defense": "7"
+  },
+  "Sniping Queen": {
+    "attack": "13",
+    "defense": "4"
+  },
+  "Ninchilla": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Haunted Doll": {
+    "attack": "15",
+    "defense": "1"
+  },
+  "Shadow People": {
+    "attack": "17",
+    "defense": "0"
+  },
+  "Space Dog": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Hunting Alien": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Changeling": {
+    "attack": "5",
+    "defense": "15"
+  },
+  "Gingerbread Warrior": {
+    "attack": "4",
+    "defense": "16"
+  },
+  "Holy Grail": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Invisible Dude": {
+    "attack": "10",
+    "defense": "8"
+  },
+  "Leaf Insect": {
+    "attack": "12",
+    "defense": "4"
+  },
+  "Mist Monkey": {
+    "attack": "14",
+    "defense": "3"
+  },
+  "Secret Passage": {
+    "attack": "0",
+    "defense": "16"
+  },
+  "Big Foot": {
+    "attack": "9",
+    "defense": "8"
+  },
+  "Many Faced Man": {
+    "attack": "14",
+    "defense": "6"
+  },
+  "Opera Ghost": {
+    "attack": "4",
+    "defense": "11"
+  },
+  "Arm Parasite": {
+    "attack": "8",
+    "defense": "11"
+  },
+  "Stealth Bomber": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Forestfolk": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Dr. Jekyll": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Alien Reptile": {
+    "attack": "15",
+    "defense": "3"
+  },
+  "Cheetah": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "The Ring Courier": {
+    "attack": "8",
+    "defense": "11"
+  },
+  "Precious Ring": {
+    "attack": "15",
+    "defense": "2"
+  },
+  "Wolf in Sheep Duds": {
+    "attack": "15",
+    "defense": "4"
+  },
+  "Gelt": {
+    "attack": "9",
+    "defense": "6"
+  },
+  "Master Dueler": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "Greeting Card": {
+    "attack": "7",
+    "defense": "12"
+  },
+  "The Gambler": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Credit Card": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Gone Fishin'": {
+    "attack": "6",
+    "defense": "11"
+  },
+  "Cryo Smuggler": {
+    "attack": "0",
+    "defense": "16"
+  },
+  "Magicianbot": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Candy Hearts": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Cursed Aztec Prince": {
+    "attack": "3",
+    "defense": "13"
+  },
+  "The Dadabook": {
+    "attack": "10",
+    "defense": "8"
+  },
+  "Planet Commander": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Blue Folk": {
+    "attack": "4",
+    "defense": "12"
+  },
+  "Healthbot Hero": {
+    "attack": "3",
+    "defense": "14"
+  },
+  "Mumbling Kid": {
+    "attack": "3",
+    "defense": "15"
+  },
+  "Rex's Lab": {
+    "attack": "15",
+    "defense": "5"
+  },
+  "Lion Prince": {
+    "attack": "2",
+    "defense": "18"
+  },
+  "Sword Prince": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Samurai Hero": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Hypnoturtle": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Momo X": {
+    "attack": "14",
+    "defense": "6"
+  },
+  "Professor Y": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Rainbow Girl": {
+    "attack": "10",
+    "defense": "9"
+  },
+  "Genius and Insane": {
+    "attack": "14",
+    "defense": "5"
+  },
+  "Healthy Hero": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Singing Raisins": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Professor Beagle": {
+    "attack": "11",
+    "defense": "7"
+  },
+  "Winter Assassin": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Nine Tails Ninja": {
+    "attack": "6",
+    "defense": "12"
+  },
+  "Moshing Miles": {
+    "attack": "2",
+    "defense": "14"
+  },
+  "Sphinx": {
+    "attack": "8",
+    "defense": "10"
+  },
+  "Crazy Cat Person": {
+    "attack": "9",
+    "defense": "11"
+  },
+  "Catfish": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Cute Carolers": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Hey Cat": {
+    "attack": "10",
+    "defense": "9"
+  },
+  "Cute Charm": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Shade Kitten": {
+    "attack": "0",
+    "defense": "17"
+  },
+  "Ella-gant Ball": {
+    "attack": "10",
+    "defense": "9"
+  },
+  "Elf Servant": {
+    "attack": "1",
+    "defense": "15"
+  },
+  "Xanthar the Exultant": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Happily Ever After": {
+    "attack": "0",
+    "defense": "20"
+  },
+  "Jungle Welcoming": {
+    "attack": "11",
+    "defense": "7"
+  },
+  "True Love's Kiss": {
+    "attack": "15",
+    "defense": "4"
+  },
+  "Musical Workers": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Snakes in a Can": {
+    "attack": "18",
+    "defense": "1"
+  },
+  "Chilling Brina": {
+    "attack": "9",
+    "defense": "8"
+  },
+  "Excalibur": {
+    "attack": "13",
+    "defense": "4"
+  },
+  "Gremlin": {
+    "attack": "9",
+    "defense": "6"
+  },
+  "Chinzilla": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Chinchilla Knight": {
+    "attack": "8",
+    "defense": "9"
+  },
+  "Chinchillalope": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Bionic Chinchilla": {
+    "attack": "6",
+    "defense": "10"
+  },
+  "Saberchilla": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Aviator Chin": {
+    "attack": "9",
+    "defense": "7"
+  },
+  "Wonderful Chin": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Beaver": {
+    "attack": "5",
+    "defense": "10"
+  },
+  "Egyptian Tomb": {
+    "attack": "15",
+    "defense": "2"
+  },
+  "Atlas": {
+    "attack": "3",
+    "defense": "13"
+  },
+  "Nutcracker": {
+    "attack": "14",
+    "defense": "6"
+  },
+  "Cursed Monkey Paw": {
+    "attack": "15",
+    "defense": "4"
+  },
+  "Frog Prince": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Groundhog": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Evil Vizier": {
+    "attack": "12",
+    "defense": "4"
+  },
+  "Night Dragon": {
+    "attack": "13",
+    "defense": "6"
+  },
+  "Strange Communicator": {
+    "attack": "1",
+    "defense": "14"
+  },
+  "Escape Tunnel": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Devil's Boy": {
+    "attack": "14",
+    "defense": "6"
+  },
+  "Robot Devil": {
+    "attack": "11",
+    "defense": "7"
+  },
+  "Goblin Hybrid": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Death Adder Shadow": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Serpent Cultist": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "Spectral Rider": {
+    "attack": "14",
+    "defense": "5"
+  },
+  "Killer Clown": {
+    "attack": "13",
+    "defense": "6"
+  },
+  "Goblin Banker": {
+    "attack": "13",
+    "defense": "4"
+  },
+  "Blowfish": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Death's Horse": {
+    "attack": "8",
+    "defense": "6"
+  },
+  "Philosopher's Stone": {
+    "attack": "9",
+    "defense": "8"
+  },
+  "Black Mamba": {
+    "attack": "15",
+    "defense": "2"
+  },
+  "Black Hole": {
+    "attack": "13",
+    "defense": "1"
+  },
+  "Mummy": {
+    "attack": "8",
+    "defense": "10"
+  },
+  "Silver Bullet": {
+    "attack": "14",
+    "defense": "1"
+  },
+  "Goblin": {
+    "attack": "9",
+    "defense": "5"
+  },
+  "Voidwalker": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Ravenica": {
+    "attack": "13",
+    "defense": "6"
+  },
+  "Demonite": {
+    "attack": "7",
+    "defense": "8"
+  },
+  "Soul Stealer": {
+    "attack": "13",
+    "defense": "3"
+  },
+  "Claymore of Doom": {
+    "attack": "14",
+    "defense": "4"
+  },
+  "Warlock": {
+    "attack": "9",
+    "defense": "7"
+  },
+  "Pixies": {
+    "attack": "14",
+    "defense": "6"
+  },
+  "Camel": {
+    "attack": "8",
+    "defense": "7"
+  },
+  "Oasis": {
+    "attack": "0",
+    "defense": "19"
+  },
+  "Rattlesnake": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Magic Carpet": {
+    "attack": "4",
+    "defense": "13"
+  },
+  "Golden Scarab": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Chaos Sprite": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Avalanche": {
+    "attack": "16",
+    "defense": "4"
+  },
+  "Bolo": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Chaos Champion": {
+    "attack": "13",
+    "defense": "6"
+  },
+  "Book Burner": {
+    "attack": "12",
+    "defense": "3"
+  },
+  "Conch Shell of Doom": {
+    "attack": "15",
+    "defense": "3"
+  },
+  "Gorezilla": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Kraken": {
+    "attack": "7",
+    "defense": "10"
+  },
+  "Hot Dog": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Alpha": {
+    "attack": "14",
+    "defense": "4"
+  },
+  "Night Children": {
+    "attack": "13",
+    "defense": "6"
+  },
+  "Amazing Dog": {
+    "attack": "9",
+    "defense": "10"
+  },
+  "Seal": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Wolf Battering Ram": {
+    "attack": "18",
+    "defense": "0"
+  },
+  "Hydra": {
+    "attack": "9",
+    "defense": "7"
+  },
+  "Eternal Dragon": {
+    "attack": "3",
+    "defense": "16"
+  },
+  "Dragon Rider": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Emberzard": {
+    "attack": "10",
+    "defense": "8"
+  },
+  "Poison Dragon": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Hydrabot": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Pyromancer": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Castle": {
+    "attack": "3",
+    "defense": "15"
+  },
+  "Carnivorous Pit": {
+    "attack": "15",
+    "defense": "5"
+  },
+  "Miner": {
+    "attack": "11",
+    "defense": "8"
+  },
+  "Asteroid Prince": {
+    "attack": "7",
+    "defense": "13"
+  },
+  "Multiverse": {
+    "attack": "9",
+    "defense": "8"
+  },
+  "Diamond Queen": {
+    "attack": "5",
+    "defense": "13"
+  },
+  "Geode": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Triceratops": {
+    "attack": "7",
+    "defense": "7"
+  },
+  "Cave Monkeys": {
+    "attack": "9",
+    "defense": "7"
+  },
+  "Great Wall": {
+    "attack": "0",
+    "defense": "18"
+  },
+  "Stone Effigy": {
+    "attack": "10",
+    "defense": "7"
+  },
+  "Moon": {
+    "attack": "4",
+    "defense": "5"
+  },
+  "Planet": {
+    "attack": "5",
+    "defense": "12"
+  },
+  "Building Blocks": {
+    "attack": "9",
+    "defense": "8"
+  },
+  "Farmer": {
+    "attack": "7",
+    "defense": "7"
+  },
+  "Plymouth Rock": {
+    "attack": "4",
+    "defense": "15"
+  },
+  "Stonemobile": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Elven Power Elixir": {
+    "attack": "3",
+    "defense": "12"
+  },
+  "Leprechaun": {
+    "attack": "11",
+    "defense": "3"
+  },
+  "Elf Wizard": {
+    "attack": "8",
+    "defense": "10"
+  },
+  "Half-Fairy": {
+    "attack": "11",
+    "defense": "4"
+  },
+  "Eternal Child": {
+    "attack": "0",
+    "defense": "16"
+  },
+  "Stinger": {
+    "attack": "14",
+    "defense": "5"
+  },
+  "Precious Ring Bearer": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Vial of Stars": {
+    "attack": "0",
+    "defense": "16"
+  },
+  "Nanopower": {
+    "attack": "4",
+    "defense": "15"
+  },
+  "Thor's Hammer": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Holiday Lights": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Energy Generator": {
+    "attack": "12",
+    "defense": "3"
+  },
+  "Firefly": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Thomas Edison": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Windmill of Doom": {
+    "attack": "5",
+    "defense": "14"
+  },
+  "Optic Mutant": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Ghost Communicator": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Super Nova": {
+    "attack": "14",
+    "defense": "0"
+  },
+  "Immortal One": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Racing Tortoise": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Alien Band": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Space Admiral": {
+    "attack": "9",
+    "defense": "11"
+  },
+  "Doc Lobster": {
+    "attack": "13",
+    "defense": "3"
+  },
+  "Squeeze Toy Alien": {
+    "attack": "0",
+    "defense": "15"
+  },
+  "Tawn Tawn": {
+    "attack": "2",
+    "defense": "16"
+  },
+  "Spaceship": {
+    "attack": "11",
+    "defense": "8"
+  },
+  "Shadow Prelate": {
+    "attack": "16",
+    "defense": "4"
+  },
+  "Gnome Gadgeteer": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Tooth Fairy": {
+    "attack": "7",
+    "defense": "12"
+  },
+  "Dread Pirate": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "Time Fairy": {
+    "attack": "11",
+    "defense": "8"
+  },
+  "Wishing Mallet": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Flight Deck Fairy": {
+    "attack": "2",
+    "defense": "15"
+  },
+  "Wisp": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Fast Food": {
+    "attack": "14",
+    "defense": "5"
+  },
+  "Pumpkin Carriage": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Air Sprite": {
+    "attack": "7",
+    "defense": "10"
+  },
+  "Candy Witch": {
+    "attack": "14",
+    "defense": "4"
+  },
+  "Pinocchio": {
+    "attack": "12",
+    "defense": "4"
+  },
+  "The Kneeling": {
+    "attack": "9",
+    "defense": "10"
+  },
+  "Unicorn": {
+    "attack": "9",
+    "defense": "7"
+  },
+  "The Talking Cricket": {
+    "attack": "2",
+    "defense": "13"
+  },
+  "King": {
+    "attack": "10",
+    "defense": "8"
+  },
+  "Shattered Sword": {
+    "attack": "18",
+    "defense": "2"
+  },
+  "The Magic Dresser": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "Hungry Crocodile": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "White Rabbit": {
+    "attack": "9",
+    "defense": "8"
+  },
+  "Rapunzel": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Mermaid King": {
+    "attack": "4",
+    "defense": "15"
+  },
+  "Jack-o'-lantern": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Blacksmith": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Menorah": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Tale of Hot & Cold": {
+    "attack": "13",
+    "defense": "6"
+  },
+  "Magpyre Maiden": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Megalodon": {
+    "attack": "16",
+    "defense": "2"
+  },
+  "Sno-Cone": {
+    "attack": "13",
+    "defense": "6"
+  },
+  "Hesperide's Tree": {
+    "attack": "8",
+    "defense": "11"
+  },
+  "Soy Yum Green": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Confectioner Will": {
+    "attack": "6",
+    "defense": "10"
+  },
+  "Lunar Pie": {
+    "attack": "6",
+    "defense": "11"
+  },
+  "Rainbow Candy": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Rat Chef": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Food Chain": {
+    "attack": "15",
+    "defense": "3"
+  },
+  "Lizard Bounty Hunter": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Laser Sword": {
+    "attack": "13",
+    "defense": "3"
+  },
+  "The Good Giant": {
+    "attack": "0",
+    "defense": "18"
+  },
+  "Pantor": {
+    "attack": "15",
+    "defense": "1"
+  },
+  "Wizard Giant": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Fungal Growth": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Wind Giant": {
+    "attack": "14",
+    "defense": "1"
+  },
+  "Monster Truck": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Enchanted Snowman": {
+    "attack": "2",
+    "defense": "15"
+  },
+  "Rhinocerous Beetle": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Arcane Golem": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Ubaid Lizardman": {
+    "attack": "0",
+    "defense": "18"
+  },
+  "Zombie Romeo": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Mask of Mischief": {
+    "attack": "12",
+    "defense": "4"
+  },
+  "Broomstick": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Void Horror": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Nearly Limbless Larry": {
+    "attack": "15",
+    "defense": "0"
+  },
+  "Hephaestus": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Thor": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Ice Lotus": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Cleric": {
+    "attack": "6",
+    "defense": "11"
+  },
+  "Monk": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Tinfoil Hat": {
+    "attack": "0",
+    "defense": "15"
+  },
+  "Bard": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Blood": {
+    "attack": "4",
+    "defense": "5"
+  },
+  "Baby New Year": {
+    "attack": "7",
+    "defense": "10"
+  },
+  "Space Shoes": {
+    "attack": "12",
+    "defense": "6"
+  },
+  "Sleigh": {
+    "attack": "5",
+    "defense": "15"
+  },
+  "Honey Beer": {
+    "attack": "14",
+    "defense": "5"
+  },
+  "First Car": {
+    "attack": "14",
+    "defense": "4"
+  },
+  "Hopeful Robot": {
+    "attack": "14",
+    "defense": "6"
+  },
+  "Caveman Inventor": {
+    "attack": "9",
+    "defense": "8"
+  },
+  "Snake Charmer": {
+    "attack": "9",
+    "defense": "8"
+  },
+  "Crazy Pirate King": {
+    "attack": "13",
+    "defense": "4"
+  },
+  "Tranquilizer Dart": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Void Beast": {
+    "attack": "14",
+    "defense": "4"
+  },
+  "Sleipnir": {
+    "attack": "1",
+    "defense": "14"
+  },
+  "Gilded Horse": {
+    "attack": "8",
+    "defense": "10"
+  },
+  "Pony Princess": {
+    "attack": "4",
+    "defense": "11"
+  },
+  "Astronaut": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Assassin": {
+    "attack": "15",
+    "defense": "0"
+  },
+  "Watson": {
+    "attack": "5",
+    "defense": "11"
+  },
+  "Sleepwalker": {
+    "attack": "15",
+    "defense": "4"
+  },
+  "Ghost Pirate": {
+    "attack": "11",
+    "defense": "6"
+  },
+  "King Midas": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Ice": {
+    "attack": "5",
+    "defense": "4"
+  },
+  "Ares": {
+    "attack": "15",
+    "defense": "2"
+  },
+  "Bookworm": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Love Bug": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "MacGryber": {
+    "attack": "3",
+    "defense": "15"
+  },
+  "Flux Inventor": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Steel Hero": {
+    "attack": "7",
+    "defense": "9"
+  },
+  "Da Vinci Flyer": {
+    "attack": "0",
+    "defense": "20"
+  },
+  "Rabbit Hole": {
+    "attack": "9",
+    "defense": "9"
+  },
+  "Sir Lancelot": {
+    "attack": "9",
+    "defense": "10"
+  },
+  "Hacker Hero": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Gladiator": {
+    "attack": "11",
+    "defense": "4"
+  },
+  "Kung Fu Master": {
+    "attack": "7",
+    "defense": "9"
+  },
+  "Hypnotist": {
+    "attack": "11",
+    "defense": "5"
+  },
+  "USB of 999 Truths": {
+    "attack": "13",
+    "defense": "3"
+  },
+  "Learning Rainbow": {
+    "attack": "10",
+    "defense": "6"
+  },
+  "Head Scholar": {
+    "attack": "0",
+    "defense": "16"
+  },
+  "Hydromancer": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Auto Champion": {
+    "attack": "5",
+    "defense": "10"
+  },
+  "Void Shaman": {
+    "attack": "11",
+    "defense": "7"
+  },
+  "Indiana Ford": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Shrinemasons": {
+    "attack": "15",
+    "defense": "1"
+  },
+  "The Awakener": {
+    "attack": "0",
+    "defense": "16"
+  },
+  "Underground City": {
+    "attack": "2",
+    "defense": "13"
+  },
+  "Friendly Dino": {
+    "attack": "9",
+    "defense": "8"
+  },
+  "Bastion": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Flower Power": {
+    "attack": "0",
+    "defense": "15"
+  },
+  "Hamlet": {
+    "attack": "12",
+    "defense": "5"
+  },
+  "Pirate Captain": {
+    "attack": "11",
+    "defense": "8"
+  },
+  "AL 9001": {
+    "attack": "8",
+    "defense": "7"
+  },
+  "Illusionist": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Druid": {
+    "attack": "6",
+    "defense": "10"
+  },
+  "Prophecy Wizard": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Sci-Fi": {
+    "attack": "6",
+    "defense": "3"
+  },
+  "Wizard Staff": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Robo Ninja": {
+    "attack": "14",
+    "defense": "5"
+  },
+  "Psychic Assassin": {
+    "attack": "11",
+    "defense": "8"
+  },
+  "Sai": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Merry John": {
+    "attack": "13",
+    "defense": "5"
+  },
+  "Court Jester": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Lady of the Lake": {
+    "attack": "11",
+    "defense": "8"
+  },
+  "Poison Dagger": {
+    "attack": "14",
+    "defense": "1"
+  },
+  "Snapping Turtle": {
+    "attack": "11",
+    "defense": "8"
+  },
+  "Other Caroline": {
+    "attack": "10",
+    "defense": "9"
+  },
+  "Fickle Eight Ball": {
+    "attack": "18",
+    "defense": "2"
+  },
+  "Power Nap": {
+    "attack": "13",
+    "defense": "4"
+  },
+  "The Musical Symbol": {
+    "attack": "10",
+    "defense": "5"
+  },
+  "Time Adventurers": {
+    "attack": "13",
+    "defense": "7"
+  },
+  "Hercules": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Dress Up Spud": {
+    "attack": "5",
+    "defense": "10"
+  },
+  "Brontosaurus": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "The Badger": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Lightspeed": {
+    "attack": "12",
+    "defense": "4"
+  },
+  "Turtle": {
+    "attack": "0",
+    "defense": "9"
+  },
+  "War Turtle": {
+    "attack": "12",
+    "defense": "7"
+  },
+  "Mr. Moneybags": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Kite": {
+    "attack": "8",
+    "defense": "8"
+  },
+  "Driller": {
+    "attack": "11",
+    "defense": "7"
+  },
+  "Pestilence": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Blood Angel": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Road Rage": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Zombie Outbreak": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Arachne": {
+    "attack": "16",
+    "defense": "6"
+  },
+  "Zombie Bear": {
+    "attack": "11",
+    "defense": "10"
+  },
+  "Mind Slug": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "Virus": {
+    "attack": "19",
+    "defense": "2"
+  },
+  "Posession": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Flea": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Party Animal Albert": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Desert Pirate": {
+    "attack": "16",
+    "defense": "5"
+  },
+  "Plague Dragon": {
+    "attack": "11",
+    "defense": "10"
+  },
+  "Stonescale": {
+    "attack": "8",
+    "defense": "16"
+  },
+  "Demonic Elf": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Sugar Demon": {
+    "attack": "18",
+    "defense": "7"
+  },
+  "Tongue Parasite": {
+    "attack": "15",
+    "defense": "6"
+  },
+  "Cavities": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Black Friday": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Divine Healer": {
+    "attack": "4",
+    "defense": "19"
+  },
+  "Relentless Friend": {
+    "attack": "8",
+    "defense": "16"
+  },
+  "Werebear": {
+    "attack": "11",
+    "defense": "9"
+  },
+  "Black Death": {
+    "attack": "16",
+    "defense": "6"
+  },
+  "Green Eyed Monster": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "Clown Toxin": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Kung Fu Zombie": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Corrosive Rust": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Monkey Planet": {
+    "attack": "7",
+    "defense": "14"
+  },
+  "Plague Monstrosity": {
+    "attack": "5",
+    "defense": "17"
+  },
+  "Thrilling Zombie": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Siphoning Belle": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Pandora's Box": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Zombie Fungus": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Greed": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Cobramon": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "The Deranged King": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Computer Bug": {
+    "attack": "18",
+    "defense": "4"
+  },
+  "Sakura Spirits": {
+    "attack": "9",
+    "defense": "12"
+  },
+  "Sarcastic Hero": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Chudolph the Braindeer": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Paradox": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Turkey Zombie": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Ice Zombie King": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Cursed Will": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Arachnid Dudette": {
+    "attack": "20",
+    "defense": "4"
+  },
+  "Spirit Bear": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Crying Angel": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Griffin": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Mothman": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Space Ghosts": {
+    "attack": "0",
+    "defense": "21"
+  },
+  "Scarecrow": {
+    "attack": "10",
+    "defense": "15"
+  },
+  "Train Doggo": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Nephilim": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Angel of Valor": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Cupid": {
+    "attack": "20",
+    "defense": "4"
+  },
+  "Fairy Godmouse": {
+    "attack": "7",
+    "defense": "16"
+  },
+  "Majestic Miko": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Heavens": {
+    "attack": "0",
+    "defense": "20"
+  },
+  "Doll": {
+    "attack": "16",
+    "defense": "6"
+  },
+  "Scorpion Lord": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Raging Gamer": {
+    "attack": "18",
+    "defense": "7"
+  },
+  "Furies": {
+    "attack": "18",
+    "defense": "3"
+  },
+  "Mama Bear": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Gashadokuro": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Shifting Mutant": {
+    "attack": "17",
+    "defense": "4"
+  },
+  "Queen of Hearts": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "The Cursed Chosen": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Puzzle Cube Head": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Malevolent": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Fire Lord": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Hangry": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Grouchy Monster": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "WMD": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Dark Sage Master": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Pinch": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Armageddon": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Masked Liberator": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Apocalypse Rider": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Alphatron": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Berserker": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "Dark Space Lord": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Blood Moon": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Fiery Shadow Demon": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Primeval Turtle": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Turtle King": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Talos": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Davy Jones": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Maelstrom": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Cyclone": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Holiday Blockbuster": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Austrian Spiketrail": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Multiversal Web": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Vampire Boogie Man": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Adventure Kid": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Death Ray": {
+    "attack": "19",
+    "defense": "2"
+  },
+  "Polaris Knuckles": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Bomb Shelter": {
+    "attack": "0",
+    "defense": "23"
+  },
+  "Fungi King": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Titan of Destruction": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Human Battery": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Wind Princess": {
+    "attack": "5",
+    "defense": "18"
+  },
+  "Smog Horror": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Apocalypse Doctrine": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Ice Age": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Decimation": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Gray Goo": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Gas Mask Soldier": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Battle Prodigy": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Cryosleep": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Titan of Death": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Off the Map": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "Ring Lord": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Bahamut": {
+    "attack": "7",
+    "defense": "14"
+  },
+  "Zombie Hunter": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Candy Nation": {
+    "attack": "2",
+    "defense": "19"
+  },
+  "D-3000": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Alien Prophet": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "The Lone Wolf": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Colossal Demon": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Spider Mine": {
+    "attack": "16",
+    "defense": "5"
+  },
+  "Puffin' Leopold": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "Arachnid Kid": {
+    "attack": "18",
+    "defense": "8"
+  },
+  "AM5 Spyder": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Rune Scorpion": {
+    "attack": "2",
+    "defense": "20"
+  },
+  "SteamTank Spider": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Droid Commander": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Arachnid Dude": {
+    "attack": "12",
+    "defense": "12"
+  },
+  "Whispering Spymaster": {
+    "attack": "16",
+    "defense": "6"
+  },
+  "Black Widow": {
+    "attack": "20",
+    "defense": "1"
+  },
+  "Three Fates": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Hero League": {
+    "attack": "5",
+    "defense": "18"
+  },
+  "Crypt Explorer": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Box Special Forces": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Memory Card": {
+    "attack": "7",
+    "defense": "18"
+  },
+  "Jumping Hero": {
+    "attack": "11",
+    "defense": "10"
+  },
+  "Meowmon": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Pikamon": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Ninja Sorcerer": {
+    "attack": "18",
+    "defense": "7"
+  },
+  "Morphed Beast": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Dragonkin Ninja": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Static Beast": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Kongar": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Broham": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Video Game": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Medic": {
+    "attack": "3",
+    "defense": "19"
+  },
+  "Punch Man": {
+    "attack": "19",
+    "defense": "6"
+  },
+  "Dr. Eggdude": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Living Algorithm": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "The Bone King": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Cannon Boy": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Lich Blade": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Barrel Gorilla": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Parasite Hunter": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Specter": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Dino Companion": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Master Alchemist": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Half-Life": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Quadforce": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Ancient Technology": {
+    "attack": "4",
+    "defense": "19"
+  },
+  "Barrel Gorilla Jr": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Hypnotic Singer": {
+    "attack": "17",
+    "defense": "4"
+  },
+  "Diamond Sword": {
+    "attack": "17",
+    "defense": "5"
+  },
+  "Persian Royalty": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Panda": {
+    "attack": "6",
+    "defense": "16"
+  },
+  "Goddess Pele": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Smoke Screen": {
+    "attack": "18",
+    "defense": "7"
+  },
+  "Opal Flower": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Monster Collector": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Sandstorm": {
+    "attack": "15",
+    "defense": "6"
+  },
+  "Sandman": {
+    "attack": "8",
+    "defense": "13"
+  },
+  "Alchemist": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Mad Bomber": {
+    "attack": "19",
+    "defense": "5"
+  },
+  "Firebird Force": {
+    "attack": "20",
+    "defense": "3"
+  },
+  "Dragon Fire": {
+    "attack": "20",
+    "defense": "3"
+  },
+  "Mister Sandman": {
+    "attack": "6",
+    "defense": "16"
+  },
+  "Quicksand": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Diamond Ring": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Stone Hearth": {
+    "attack": "3",
+    "defense": "20"
+  },
+  "Lunara": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Manticore": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Vamping Vera": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Space Moth": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Vamp Crunch": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Veined Castle": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Kid Sidekick": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Chiroptercar": {
+    "attack": "11",
+    "defense": "11"
+  },
+  "Vampire Assassin": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Vampire Knight": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Chiropterang": {
+    "attack": "18",
+    "defense": "4"
+  },
+  "Magical Soccer": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Gummy Bear": {
+    "attack": "6",
+    "defense": "17"
+  },
+  "War Bear": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Bouncy Bears": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Emok": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Dire Bear": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Goldilocks and Bears": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Fish Bone": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Mecha Bear": {
+    "attack": "9",
+    "defense": "14"
+  },
+  "Hungry Panda Hero": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Water Bear": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Koala": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "The Fortune's Cookie": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Pet Plant": {
+    "attack": "7",
+    "defense": "16"
+  },
+  "Shapeshifting Chief": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Dark Swan": {
+    "attack": "11",
+    "defense": "10"
+  },
+  "Bumpy Princess": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Blood Bath": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Lion": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Fair Princess": {
+    "attack": "5",
+    "defense": "16"
+  },
+  "Viral Dance": {
+    "attack": "5",
+    "defense": "16"
+  },
+  "Undead Bride": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Scylla": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Siren": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Rebel Space Princess": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Jester Sidekick": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Fountain of Youth": {
+    "attack": "0",
+    "defense": "20"
+  },
+  "Alicorn": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Attractive Brain": {
+    "attack": "20",
+    "defense": "4"
+  },
+  "Aphrodite": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Bloody Prom Queen": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Plant Fatale": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Poison Oak": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Dragon Mother": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Barbarian": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Sparkling Vampire": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Harvest": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Persephone": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Mermaid Princess": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Dark Elf": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Amazon": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Nerdy Wizard": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Murder of Crows": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Frostwing": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Harpy": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Turkeyzilla": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Cockatrice": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Thunderbird": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Centennial Eagle": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Ziz": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Quack Doctor": {
+    "attack": "8",
+    "defense": "15"
+  },
+  "Stymphalian Bird": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Crow Revenant": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Eagle Rider": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Wise Owl": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Microraptor": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Terror Bird": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Carver of Doom": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Dragon Princess": {
+    "attack": "7",
+    "defense": "14"
+  },
+  "Undead Slime": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Oozer": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Fat Cat": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "PB & Jelly Time": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Alien Beastie": {
+    "attack": "18",
+    "defense": "3"
+  },
+  "Alien Mob Boss": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Slime Warrior": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Gelmancer": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Snoring Monster": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Snowman": {
+    "attack": "8",
+    "defense": "15"
+  },
+  "Fat King": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Entropic Magic": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Flapjack Octopus": {
+    "attack": "18",
+    "defense": "3"
+  },
+  "Fossil": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Fluff Puff": {
+    "attack": "3",
+    "defense": "18"
+  },
+  "Ornamental Pickle": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Mandrake": {
+    "attack": "6",
+    "defense": "15"
+  },
+  "Blood Bros": {
+    "attack": "6",
+    "defense": "15"
+  },
+  "Haunted House of Cards": {
+    "attack": "18",
+    "defense": "8"
+  },
+  "Unicorn Blood": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Fireblood Dragon": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Bloody Mary": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Nanobots": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Blood Mage": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Electric Eel": {
+    "attack": "10",
+    "defense": "13"
+  },
+  "Red Violin": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Bed Bug": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Skeleton Overlord": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Bone Chin": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Abyss Knight": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Outrealm Warlord": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Spectre Ninja": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Bone Golem": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Pumpkin Prince": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Skeletal Horse": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Big Mojo": {
+    "attack": "20",
+    "defense": "4"
+  },
+  "Skeletal Worm": {
+    "attack": "15",
+    "defense": "6"
+  },
+  "Demonic Bike": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Spork of Doom": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Charon": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Turtle Warrior": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Desert Shrew": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Plant Dragon": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Swamp Monster": {
+    "attack": "12",
+    "defense": "12"
+  },
+  "Cheshire Cat": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Bounty Hunter Clone": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Mountain Giant": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Trick or Treater": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Trojan Horse": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Snake Oil Salesman": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Sergeant Arnold": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Rock Dragon": {
+    "attack": "12",
+    "defense": "12"
+  },
+  "Frost Wolf": {
+    "attack": "19",
+    "defense": "4"
+  },
+  "Love Potion": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Dino Hybrid": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Nautilus 20K": {
+    "attack": "1",
+    "defense": "20"
+  },
+  "Plant Clones": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Plantasaur": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Octopus": {
+    "attack": "6",
+    "defense": "16"
+  },
+  "Lord of Horses": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Death's Gift": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Transformobot": {
+    "attack": "12",
+    "defense": "12"
+  },
+  "Pinata": {
+    "attack": "3",
+    "defense": "19"
+  },
+  "Action Figure": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Royal Flush": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Astro Gang": {
+    "attack": "16",
+    "defense": "5"
+  },
+  "Mecha Chinzilla": {
+    "attack": "19",
+    "defense": "6"
+  },
+  "Tarot Reading": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Ninja Doge": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "White-Eyed Dragon": {
+    "attack": "19",
+    "defense": "5"
+  },
+  "Card Soldiers": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "Fire Sigil": {
+    "attack": "3",
+    "defense": "21"
+  },
+  "Pastry Cat": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Ancient Scrolls": {
+    "attack": "16",
+    "defense": "5"
+  },
+  "Professor Pine": {
+    "attack": "6",
+    "defense": "17"
+  },
+  "Bubbles": {
+    "attack": "8",
+    "defense": "14"
+  },
+  "Chocolate Lizards": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Mr. Beetleson": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Jack the Dog": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Ember": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Food Squad": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "Chin Trooper": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Hammer Time": {
+    "attack": "8",
+    "defense": "16"
+  },
+  "Rudolph": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Speed Demon": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "My Mini Horse": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Fused Martial Artists": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Sensei Rat": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Moon Heroine": {
+    "attack": "9",
+    "defense": "12"
+  },
+  "Ice King": {
+    "attack": "8",
+    "defense": "13"
+  },
+  "Villain Groupies": {
+    "attack": "12",
+    "defense": "12"
+  },
+  "Gem": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Mutated Rhino": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Demon Puncher": {
+    "attack": "19",
+    "defense": "6"
+  },
+  "Pup": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Omni Igniter": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Catron": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "General Viper": {
+    "attack": "9",
+    "defense": "11"
+  },
+  "Stormcat": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Robert Sponge": {
+    "attack": "8",
+    "defense": "13"
+  },
+  "Burgermobile": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "The Grater": {
+    "attack": "9",
+    "defense": "13"
+  },
+  "Brain Warlord": {
+    "attack": "18",
+    "defense": "7"
+  },
+  "Windmaster Eng": {
+    "attack": "8",
+    "defense": "16"
+  },
+  "Hungry Coyote": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Nine Tailed Fox": {
+    "attack": "10",
+    "defense": "12"
+  },
+  "Aquatic Alien": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Hammertron": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Sabertooth Cat": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Panther Hero": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Maneaters": {
+    "attack": "19",
+    "defense": "5"
+  },
+  "Larcenous Pets": {
+    "attack": "17",
+    "defense": "5"
+  },
+  "King Killer": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Cat Nap": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Dragon Cannon": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Everything is Cake": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Mini Clone": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Mr. Pimm's Wild Ride": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Horn of Man": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Alchemical Graduate": {
+    "attack": "1",
+    "defense": "20"
+  },
+  "Pied Piper": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Christmas Tree": {
+    "attack": "11",
+    "defense": "11"
+  },
+  "Fairy Light Festival": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Shark Rider": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Forest Chinchillas": {
+    "attack": "12",
+    "defense": "12"
+  },
+  "Candy King Chin": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Mozart Chin": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Evomon": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Rat Reaper": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Pilgrim Chin": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Chin Cousteau": {
+    "attack": "5",
+    "defense": "16"
+  },
+  "Demon Hero": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Banshee Empress": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "Great Wereape": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Cursed Garden": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Belphegor": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Crazy Eyed Wizard": {
+    "attack": "7",
+    "defense": "14"
+  },
+  "Cursed Flute": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Prometheus": {
+    "attack": "9",
+    "defense": "12"
+  },
+  "Kappa": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Ghost Army": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Pirate Booty": {
+    "attack": "10",
+    "defense": "11"
+  },
+  "Young Wolf": {
+    "attack": "10",
+    "defense": "12"
+  },
+  "Christmas Spirits": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Eyed Feet Man": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Anubis": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Sea Witch": {
+    "attack": "11",
+    "defense": "10"
+  },
+  "Eye Eater": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Dark Apprentice": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Sinister Gourdling": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Galactic Wizard": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Frost Dragon": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Wi-Fi Psychic": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Bogeyman": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Water Dragon": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Spooky Tree": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Treacherous Wizard": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "Tarrasque": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Big Bad Wolf": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Krampus": {
+    "attack": "23",
+    "defense": "3"
+  },
+  "Dr. Frankenstein": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Hades": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Last Stand": {
+    "attack": "5",
+    "defense": "19"
+  },
+  "Puzzle Master": {
+    "attack": "16",
+    "defense": "6"
+  },
+  "Wraith": {
+    "attack": "17",
+    "defense": "3"
+  },
+  "Moonflare": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Mutant Destroyer": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Necrocomicon": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Basilisk": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Igor": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Nightmare Stalker": {
+    "attack": "18",
+    "defense": "7"
+  },
+  "Cactus Demon": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Cerberus": {
+    "attack": "11",
+    "defense": "9"
+  },
+  "Rumpelstiltskin": {
+    "attack": "11",
+    "defense": "11"
+  },
+  "Cymbal Monkey": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Teleporting Acrobat": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Zombie Chipmunk": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Xenomorph": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Clown Car": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Amphisbaena": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Jama": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "Genie": {
+    "attack": "9",
+    "defense": "14"
+  },
+  "Vacations": {
+    "attack": "16",
+    "defense": "5"
+  },
+  "Sand Warrior": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Pygmy Jerboa": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Poisonous Prince": {
+    "attack": "20",
+    "defense": "3"
+  },
+  "Gunslinger": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Laser": {
+    "attack": "18",
+    "defense": "2"
+  },
+  "Sharkstorm": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Unstoppable Force": {
+    "attack": "20",
+    "defense": "2"
+  },
+  "Crimson Witch": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Dragon Incarnate": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Puppy Love": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Spirit Wolf": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Wolf Warrior": {
+    "attack": "22",
+    "defense": "0"
+  },
+  "K-9000": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Dr. Savage": {
+    "attack": "10",
+    "defense": "11"
+  },
+  "Sea Dog": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Stockbroker Wolf": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Cranky Knight": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Northern King": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Amaterasu": {
+    "attack": "19",
+    "defense": "5"
+  },
+  "Fire Candy": {
+    "attack": "18",
+    "defense": "4"
+  },
+  "Dragon Turtle": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Dragonfly": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Alpha Dragon": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Super Martial Artist": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Smug": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Dragonkin": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Spectral Dragon": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Ancient Dragon": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Dreidel": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Thunder God": {
+    "attack": "7",
+    "defense": "15"
+  },
+  "The Brown Druid": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Mind Jewel": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Monkey King": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Moon Golem": {
+    "attack": "9",
+    "defense": "15"
+  },
+  "Pan": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Psychic Elementalist": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "World Turtle": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Atlantis": {
+    "attack": "12",
+    "defense": "12"
+  },
+  "Terracotta Army": {
+    "attack": "5",
+    "defense": "18"
+  },
+  "Space Elf": {
+    "attack": "11",
+    "defense": "11"
+  },
+  "Elf Baker": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Master Y": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Santa's Helper": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Forest Elf": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Elf Warrior": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Flying Goblin": {
+    "attack": "16",
+    "defense": "6"
+  },
+  "Mana Drainer": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Lizard Rider": {
+    "attack": "15",
+    "defense": "6"
+  },
+  "Pilgrim": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Blue Bull": {
+    "attack": "14",
+    "defense": "6"
+  },
+  "Acupuncturist": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Zeus": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Space Guardian": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "AI": {
+    "attack": "11",
+    "defense": "10"
+  },
+  "Surfer Dude": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Plasma Sword": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Frankenstein": {
+    "attack": "8",
+    "defense": "14"
+  },
+  "Hugging Alien": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Cyborg": {
+    "attack": "9",
+    "defense": "12"
+  },
+  "Giant Anti-Heroes": {
+    "attack": "17",
+    "defense": "9"
+  },
+  "Celestial Trees": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Alien Dino": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Alien": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Hairy Smuggler": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Macho Alien": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Raccoon Guardian": {
+    "attack": "17",
+    "defense": "5"
+  },
+  "Dr. What": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Ali-Ent": {
+    "attack": "18",
+    "defense": "7"
+  },
+  "Oberon": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Morgana": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Mr. Clown": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Beanstalk Giant": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Witch's Brew": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "The Huntsman": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Mad Hatter": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Tin Man": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Jack and Beanstalk": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Fortune Teller": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Hot Pepper": {
+    "attack": "19",
+    "defense": "1"
+  },
+  "Ifrit": {
+    "attack": "11",
+    "defense": "11"
+  },
+  "EZ Cake Oven": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Hammerhead Shark": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Mantis Shrimp": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Laser Shark": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Swordfish": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Anglerfish": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Cookie Beast": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Hangry Meal": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Punchy": {
+    "attack": "18",
+    "defense": "7"
+  },
+  "Moocher": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Burgerlar": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Ice Carrier": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Astro Droid": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "W Space Fighter": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Skull Smasher": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Doomed Giant": {
+    "attack": "5",
+    "defense": "16"
+  },
+  "Frost Giant": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "Insect Man": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Fighting Champion": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Jaeger": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Sea Giant": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "High Tide": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Mechanical Knight": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Hug-o-Tron": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Troll": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "War Drummer": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Cyclops": {
+    "attack": "15",
+    "defense": "10"
+  },
+  "Golden Construct": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Turtle Golem": {
+    "attack": "10",
+    "defense": "14"
+  },
+  "Air Elemental": {
+    "attack": "12",
+    "defense": "8"
+  },
+  "Masked Killer": {
+    "attack": "16",
+    "defense": "6"
+  },
+  "Haunted Armor": {
+    "attack": "7",
+    "defense": "17"
+  },
+  "Ram Hammer": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Hammer Sword": {
+    "attack": "17",
+    "defense": "4"
+  },
+  "God Hammer": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Hermes": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Santa Claus": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Crusader": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Lunar Priest": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Squirt Gun": {
+    "attack": "18",
+    "defense": "3"
+  },
+  "Trapper-1": {
+    "attack": "18",
+    "defense": "6"
+  },
+  "Ice Dude": {
+    "attack": "17",
+    "defense": "7"
+  },
+  "Zantar": {
+    "attack": "10",
+    "defense": "12"
+  },
+  "Love Crush": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Last Day of School": {
+    "attack": "11",
+    "defense": "11"
+  },
+  "Robin Hood": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Elemental Stones": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Meteorite Sword": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Cloud Rider": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Professor Werewolf": {
+    "attack": "11",
+    "defense": "12"
+  },
+  "Horned Serpent": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Bionic Unicorn": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Ceryneian Hind": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Narwhal": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Mayflower": {
+    "attack": "10",
+    "defense": "12"
+  },
+  "Grasshopper": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Immortal": {
+    "attack": "8",
+    "defense": "14"
+  },
+  "The Ranger": {
+    "attack": "16",
+    "defense": "7"
+  },
+  "The Dash": {
+    "attack": "5",
+    "defense": "18"
+  },
+  "Firemaster Rooku": {
+    "attack": "5",
+    "defense": "17"
+  },
+  "Outlandish Royalty": {
+    "attack": "15",
+    "defense": "6"
+  },
+  "Minotaur": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Air Ship": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Ed Handytool": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "Frost Mage": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Watermaster Cora": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Dark Soul Vessels": {
+    "attack": "15",
+    "defense": "6"
+  },
+  "Dr. Radiation": {
+    "attack": "6",
+    "defense": "15"
+  },
+  "Merlin": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Ouroboros": {
+    "attack": "8",
+    "defense": "15"
+  },
+  "Apollo": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Lycan King": {
+    "attack": "16",
+    "defense": "8"
+  },
+  "Army Ant": {
+    "attack": "11",
+    "defense": "10"
+  },
+  "Queen Bee": {
+    "attack": "14",
+    "defense": "7"
+  },
+  "Wormhole": {
+    "attack": "11",
+    "defense": "11"
+  },
+  "Mind Control Device": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Bonsai": {
+    "attack": "15",
+    "defense": "9"
+  },
+  "Superpowered Girls": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Time Machine": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Ghost Trapper": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Ultimate Soldier": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Three Wise Monkeys": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Vegas Magicians": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "Shrunken Head": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Anaconda Snack": {
+    "attack": "14",
+    "defense": "11"
+  },
+  "Raptorbot": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Dino Park": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "The Mole King": {
+    "attack": "14",
+    "defense": "10"
+  },
+  "King Arthur": {
+    "attack": "12",
+    "defense": "12"
+  },
+  "Courageous Founder": {
+    "attack": "12",
+    "defense": "12"
+  },
+  "Einstein": {
+    "attack": "15",
+    "defense": "6"
+  },
+  "Chemistry Set": {
+    "attack": "17",
+    "defense": "6"
+  },
+  "Aeromancer": {
+    "attack": "10",
+    "defense": "10"
+  },
+  "Wizard Headmaster": {
+    "attack": "15",
+    "defense": "8"
+  },
+  "Jack Anger": {
+    "attack": "15",
+    "defense": "7"
+  },
+  "Magnet Dude": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Ratatoskr": {
+    "attack": "17",
+    "defense": "8"
+  },
+  "Cupid's Bow": {
+    "attack": "18",
+    "defense": "4"
+  },
+  "Orpheus": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Dull Jack": {
+    "attack": "12",
+    "defense": "10"
+  },
+  "Delusional Psychic": {
+    "attack": "13",
+    "defense": "9"
+  },
+  "Psychotic Clown": {
+    "attack": "18",
+    "defense": "5"
+  },
+  "The Boy Wizard": {
+    "attack": "11",
+    "defense": "10"
+  },
+  "Turtle Sorcerer": {
+    "attack": "13",
+    "defense": "10"
+  },
+  "Gunfu Cleric": {
+    "attack": "12",
+    "defense": "11"
+  },
+  "Mecha Monkey": {
+    "attack": "10",
+    "defense": "13"
+  },
+  "Dinaggro": {
+    "attack": "10",
+    "defense": "13"
+  },
+  "Robot King": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Immovable Object": {
+    "attack": "2",
+    "defense": "20"
+  },
+  "Robotic Toy": {
+    "attack": "11",
+    "defense": "11"
+  },
+  "Tank": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Viral Agent": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Hypnotic Python": {
+    "attack": "16",
+    "defense": "5"
+  },
+  "White Dwarf": {
+    "attack": "18",
+    "defense": "4"
+  },
+  "Monster Slayer": {
+    "attack": "19",
+    "defense": "4"
+  },
+  "Charybdis": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Multi Dream": {
+    "attack": "13",
+    "defense": "12"
+  },
+  "Turtle Drummer": {
+    "attack": "14",
+    "defense": "8"
+  },
+  "Steamroller": {
+    "attack": "11",
+    "defense": "12"
+  },
+  "Tempest": {
+    "attack": "16",
+    "defense": "9"
+  },
+  "Koo Koo Nuts": {
+    "attack": "16",
+    "defense": "5"
+  },
+  "Poisonous Porcupine": {
+    "attack": "13",
+    "defense": "8"
+  },
+  "Cyberwolf": {
+    "attack": "12",
+    "defense": "9"
+  },
+  "Mouse Hero": {
+    "attack": "13",
+    "defense": "11"
+  },
+  "Lieutenant USA": {
+    "attack": "10",
+    "defense": "14"
+  },
+  "Rip Van Winkle": {
+    "attack": "14",
+    "defense": "9"
+  },
+  "Masked Swordsman": {
+    "attack": "16",
+    "defense": "6"
+  },
+  "Tomb Keeper": {
+    "attack": "7",
+    "defense": "14"
+  },
+  "Sniper": {
+    "attack": "20",
+    "defense": "4"
+  }
+}
