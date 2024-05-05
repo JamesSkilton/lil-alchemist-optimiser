@@ -18,8 +18,6 @@ def add_rarity(object, rarity, card, combo):
   combo_object = {
       "combo": combo,
       "combo_rarity": rarity,
-      "attack": all_combo_card_stats[combo]["attack"],
-      "defense": all_combo_card_stats[combo]["defense"]
     }
   if(card in object):
     object[card] = combo_object

@@ -7,14 +7,14 @@ with open("all_card_rarities.json", "r") as json_file:
 with open("all_card_combo_stats.json", "r") as json_file:
     all_combo_stats = json.load(json_file)
 
-def calculate_pref_total(attack, defense, rarity, total):
-    if prefernce == 1:
-        total += attack * prefernce["fav"] + defense * prefernce["les"] + rarity_pref[rarity]
-    elif prefernce == 2:
-        total += attack * prefernce["fav"] + defense * prefernce["les"] + rarity_pref[rarity]
+def calculate_pref_total(attack, defense, rarity):
+    if user_preference == str(1):
+        pref_value = round(attack * prefernce["fav"] + defense * prefernce["les"] + rarity_pref[rarity], 2)
+    elif user_preference == str(2):
+        pref_value = round(defense * prefernce["fav"] + attack * prefernce["les"] + rarity_pref[rarity], 2)
     else:
-        total += attack * prefernce["bal"] + defense * prefernce["bal"] + rarity_pref[rarity]
-    return total
+        pref_value = round(attack * prefernce["bal"] + defense * prefernce["bal"] + rarity_pref[rarity], 2)
+    return pref_value
 
 def main():
     for object in object_data:
@@ -31,8 +31,9 @@ def main():
                     combo_card_attack = int(all_combo_stats[combo_card]["attack"])
                     combo_card_defence = int(all_combo_stats[combo_card]["defense"])
 
-                    total_pref += calculate_pref_total(combo_card_attack, combo_card_defence, object_data[object][card]["combo_rarity"], total_pref)
+                    total_pref += calculate_pref_total(combo_card_attack, combo_card_defence, object_data[object][card]["combo_rarity"])
                     total += weighting[object_data[object][card]["combo_rarity"]]
+                    
                     if object_data[object][card]["combo_rarity"] == "Bronze":
                         bronze+=1
                     if object_data[object][card]["combo_rarity"] == "Silver":
