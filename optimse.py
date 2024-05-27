@@ -7,6 +7,13 @@ with open("all_card_rarities.json", "r") as json_file:
 with open("all_card_combo_stats.json", "r") as json_file:
     all_combo_stats = json.load(json_file)
 
+def get_rarity_bonus(card1_rarity, card2_rarity):
+    if (rarity_pref[card1_rarity] == rarity_pref["Gold"] or rarity_pref[card2_rarity] == rarity_pref["Gold"]):
+        return 3
+    if (rarity_pref[card1_rarity] == rarity_pref["Silver"] or rarity_pref[card2_rarity] == rarity_pref["Silver"]):
+        return 2
+    return 1
+
 def calculate_pref_total(attack, defense, rarity):
     if user_preference == str(1):
         pref_value = round(attack * prefernce["fav"] + defense * prefernce["les"] + rarity_pref[rarity], 2)
@@ -28,8 +35,9 @@ def main():
             if card in object_data[object]:
                 if all_card_rarities[object] in only_want_card_rarity:
                     combo_card = object_data[object][card]["combo"]
-                    combo_card_attack = int(all_combo_stats[combo_card]["attack"])
-                    combo_card_defence = int(all_combo_stats[combo_card]["defense"])
+                    rarity_bonus = get_rarity_bonus(all_card_rarities[card], all_card_rarities[object])
+                    combo_card_attack = int(all_combo_stats[combo_card]["attack"]) + rarity_bonus
+                    combo_card_defence = int(all_combo_stats[combo_card]["defense"]) + rarity_bonus
 
                     total_pref += calculate_pref_total(combo_card_attack, combo_card_defence, object_data[object][card]["combo_rarity"])
                     total += weighting[object_data[object][card]["combo_rarity"]]
